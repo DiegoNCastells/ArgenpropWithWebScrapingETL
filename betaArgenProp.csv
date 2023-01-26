@@ -1,0 +1,94 @@
+currencyPurchase,pricePurchase,expensesCurrency,expensesPrice,direcction,coveredArea,bedrooms,antiquity,toilets,environments,garages,condition,provision
+USD,360.000,$,52.000,Av Cabildo 100,145,3,10000,2,4,1,Excelente ,Frente 
+USD,85.000,$,14.000,Republica de la India  2800,35,1,10000,1,2,0,Excelente ,Contrafrente 
+USD,600.000,$,50.000,JUAN MARIA GUTIERREZ 3900,140,2,10000,2,3,1,Excelente ,Frente 
+USD,215.000,$,34.000,Lavalle 4000,65,2,10000,1,3,1,Excelente ,Contrafrente 
+USD,123.000,$,8.900,GÜEMES 3900,55,2,10000,1,3,0, ,Frente 
+USD,220.000,$,32.000,Bonpland 2400,150,3,10000,2,4,0,Excelente ,Frente 
+USD,330.000,$,37.000,Charcas 4000,75,2,10000,2,3,1,Excelente ,Contrafrente 
+USD,115.000,$,39.000,Armenia 2400,45,Monoambiente,10000,1,1,0,Excelente ,Frente 
+USD,95.000,$,7.500,Bonpland al 2400,33,1,10000,1,1,0, ,
+USD,330.000,$,15.000,Scalabrini Ortiz 1500,106,3,10000,3,4,2,Excelente ,Frente 
+USD,90.000,$,16.956,Vidt 1900,0,1,10000,1,2,0,Bueno ,Frente 
+USD,210.000,$,14.000,JUAN MARIA GUTIERREZ  3800,95,2,10000,2,3,0,Excelente ,Frente 
+USD,140.000,$,13.000,Guatemala 6000,50,1,10000,2,2,0,Excelente ,Contrafrente 
+USD,79.000,$,17.000,ARAOZ 2800,37,1,10000,1,2,0,Muy Bueno ,Frente 
+USD,328.000,$,30.000,AV. LAS HERAS 3900,"119,89",3,10000,2,4,0,Muy Bueno ,
+USD,1.950.000,$,32.000,Castex 3500,407,4,26,4,5,2,Excelente ,Contrafrente 
+USD,147.999,$,32.000,BORGES 2100,48,1,10000,1,2,1, ,Contrafrente 
+USD,124.999,$,32.000,Borges al 2100,39,1,10000,1,2,1, ,Contrafrente 
+USD,99.000,$,16.200,CONVENCION entre HONDURAS y EL SALVADOR,36,Monoambiente,10000,1,1,1, ,Frente 
+USD,230.000,$,33.000,"ARMENIA 2300, Piso 1",100,3,10000,3,4,0,Muy Bueno ,
+USD,269.000,$,15.000,"CONCEPCION ARENAL 3400, Piso 8",80,2,10000,2,3,1,Excelente ,Contrafrente 
+USD,99.900,$,32.000,Charcas al 5000,46,1,10000,1,2,0, ,Frente 
+USD,349.900,$,32.000,Malabia 2200,137,3,10000,2,4,1, ,
+USD,120.000,$,8.000,Güemes  4100 4100,58,2,40,1,3,0,Bueno ,Interno 
+USD,179.500,$,32.000,Niceto Vega 5120,74,2,10000,2,3,0, ,
+USD,105.000,$,9.000,Av Cabildo 200,55,2,10000,1,3,0,Muy Bueno ,Lateral 
+USD,108.000,$,11.487,HONDURAS 3700,60,2,10000,1,3,0,Muy Bueno ,Frente 
+USD,199.000,$,14.400,Av. Santa Fe al 5100,98,4,15,1,4,0, ,
+USD,79.500,$,11.000,Av Niceto Vega al 5700,35,Monoambiente,10000,1,1,0, ,
+USD,300.000,$,20.000,"Juncal   3700 9°  3700, Piso 9",84,3,60,2,4,0,Excelente ,Frente 
+USD,148.000,$,8.500,"Borges 2100, Piso 1",56,1,10000,1,2,5,Excelente ,Contra Frente 
+USD,225.000,$,30.000,Dorrego 1800,62,2,10000,2,3,1, ,
+USD,89.000,$,11.780,Malabia 2400,37,1,10000,1,1,0,Muy Bueno ,Contra Frente 
+USD,74.000,$,32.000,Niceto Vega 5120,31,Monoambiente,10000,1,1,0, ,
+USD,159.000,$,14.000,"PARAGUAY 5300, Piso 2",54,2,10000,1,3,1,Excelente ,Contrafrente 
+USD,104.400,$,32.000,Soler al 5500,35,Monoambiente,10000,1,1,0, ,Frente 
+USD,145.000,$,20.460,Paraguay 3500,67,2,10000,1,3,0,Muy Bueno ,Contrafrente 
+USD,102.300,$,32.000,Soler al 5500,34,Monoambiente,10000,1,1,0, ,Frente 
+USD,139.000,$,10.300,Bonpland al 1500,56,2,10000,1,3,0, ,Frente 
+USD,145.000,$,32.000,GUATEMALA 4800 ¡20% de descuento PAGO CONTADO!,43,1,10000,1,2,0, ,Contrafrente 
+USD,69.700,$,32.000,Niceto Vega 5120,28,Monoambiente,10000,1,1,0, ,
+USD,320.000,$,40.000,Avenida Dorrego al 1700,81,2,10000,2,3,1, ,
+USD,540.000,$,35.000,Ugarteche 3100,149,3,10000,2,4,1, ,
+USD,145.000,$,11.000,"Paraguay 3000, Piso 6",78,3,10000,2,4,0,Bueno ,Contrafrente 
+USD,230.000,$,32.000,Av Niceto Vega 5700,67,2,10000,2,3,0, ,Frente 
+USD,139.000,$,9.000,Scalabrini ortiz al 1700,52,2,10000,1,3,0, ,
+USD,133.400,$,32.000,Niceto Vega 5120,48,1,10000,1,2,0, ,
+USD,280.000,$,15.000,"Av. Luis Maria Campos  100 4°  100, Piso 4",73,2,15,2,3,0, ,
+USD,180.000,$,11.500,"Mansilla  3900, Piso 6",73,2,10000,2,3,0,Excelente ,Frente 
+USD,270.000,$,15.000,"Borges 2100, Piso 10",106,2,10000,2,3,1,Excelente ,Frente 
+USD,189.000,$,22.000,Fitz Roy al 2300,65,1,10000,1,2,0, ,
+USD,292.000,$,32.000,avenida cordoba al 3600,105,2,10000,3,3,1, ,
+USD,349.000,$,70.000,GUEMES al 4400,187,3,10000,4,4,1, ,
+USD,120.000,$,4.100,GORRITI al 4800,55,2,10000,1,3,0, ,
+USD,95.000,$,10.000,DARREGUEYRA al 2000,50,1,10000,1,2,0, ,
+USD,70.000,$,10.000,"Angel  Justiniano Carranza 1100, Piso 2",30,Monoambiente,10000,1,1,0,Excelente ,Lateral 
+Consultar,precio,$,32.000,ARMENIA 2200,162,3,10000,3,4,0, ,Frente 
+USD,790.000,$,140.000,República Arabe Siria 2700,234,3,10000,2,4,1,Excelente ,Frente 
+USD,185.000,$,45.516,GUEMES al 3800,88,2,10000,2,3,0, ,
+USD,108.000,$,32.000,NICARAGUA al 5000,50,2,10000,1,3,0, ,
+USD,69.900,$,3.000,AV. CORDOBA al 5300,36,1,10000,1,2,0, ,
+USD,245.000,$,32.000,GORRITI 5800,119,2,10000,3,3,0, ,Contrafrente 
+USD,235.000,$,32.000,NICARAGUA 5800,90,3,10000,2,4,1, ,Frente 
+USD,320.000,$,32.000,Malabia 1300,95,3,10000,2,4,0,Excelente ,
+USD,150.000,$,32.000,"Medrano  1300, Piso 1",106,3,10000,2,4,0,Bueno ,Lateral 
+USD,196.000,$,32.480,Avenida Dorrego 1800,59,1,10000,1,2,1, ,
+USD,60.000,$,5.700,Charcas al 5100,31,1,10000,1,2,0, ,Interno 
+USD,299.000,$,21.000,"Av. Santa Fe 4400, Piso 14",105,3,10000,4,4,0,Muy Bueno ,Contra Frente 
+USD,219.000,$,32.000,Av Niceto Vega 5700,66,2,10000,2,3,0, ,Contrafrente 
+USD,550.000,$,32.000,"Republica  Árabe Siria 3100, Piso 1",167,3,10000,3,4,1, ,Frente 
+USD,235.000,$,16.000,Av Scalabrini Ortiz al 2200,89,3,10000,2,4,1, ,Frente 
+USD,151.551,$,32.000,Godoy Cruz 2875,50,1,10000,2,2,0, ,Frente 
+USD,550.000,$,32.000,Cabello 3100,135,3,10000,3,4,1, ,
+USD,185.000,$,18.000,BONPLAND al 2000,69,2,10000,2,3,1, ,
+USD,109.000,$,12.300,GODOY CRUZ al 2500,48,2,10000,1,3,0, ,
+USD,290.000,$,32.000,"Honduras 3800, Piso 1",191,4,10000,2,5,0,Muy Bueno ,Frente 
+Consultar,precio,$,32.000,"Medrano  1300, Piso 1",106,3,10000,2,4,0,A Refaccionar ,Lateral 
+USD,95.000,$,19.000,CONCEPCION ARENAL al 2300,0,2,10000,1,3,0, ,Contrafrente 
+USD,110.000,$,32.000,"Malabia 2100, Piso 3","39,62",1,10000,1,2,0,Excelente ,Frente 
+USD,120.000,$,9.671,ARMENIA al 2100,47,2,10000,1,3,0, ,Lateral 
+USD,55.000,$,7.344,SINCLAIR al 3000,28,Monoambiente,10000,1,1,0, ,Interno 
+USD,90.000,$,9.751,"Av. Scalabrini Ortiz 1400, Piso 3º",0,Monoambiente,10000,1,1,1,Muy Bueno ,Contra Frente 
+USD,499.000,$,1,Jerónimo Salguero 2800,80,1,10000,1,2,1, ,
+USD,258.200,$,32.000,Guatemala 5500,76,2,10000,2,3,0, ,Contrafrente 
+USD,345.000,$,29.000,"Ortiz De Ocampo 2500, Piso 1",117,3,10000,2,4,0,Excelente ,Frente 
+USD,295.000,$,24.000,Soler al 3700,104,3,10000,2,4,1, ,Frente 
+USD,115.000,$,32.000,Lafinur 3300,35,Monoambiente,10000,1,1,0, ,
+USD,109.900,$,1.000,Aráoz 2500,30,Monoambiente,10000,1,1,0, ,
+USD,144.000,$,18.000,"Fray Justo Santa Maria De Oro 2200, Piso 9",42,1,10000,1,2,0,Excelente ,Frente 
+USD,340.000,$,10.539,ARMENIA al 2300,151,6,10000,4,7,0, ,Frente 
+USD,54.000,$,12.000,SANTAMARIA DE ORO al 2200,26,Monoambiente,10000,1,1,0, ,
+USD,58.000,$,32.000,"Bonpland 1500, Piso pb",0,1,10000,1,2,0,A Refaccionar ,Lateral 
+USD,105.000,$,12.500,Uriarte 1200,48,1,10000,1,2,0, ,
